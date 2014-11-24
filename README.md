@@ -1,5 +1,5 @@
 # Node Progress
-Simple loading message for indeterminate proccesses.
+Simple loading message for indeterminate processes.
 
 ### How to use
 
