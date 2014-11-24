@@ -1,0 +1,29 @@
+{
+	"name": "node-progress",
+	"version": "0.1.0",
+	"description": "A library that provides a cool loading.",
+	"main": "progress.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/mauriciogior/node-progress.git"
+	},
+	"keywords": [
+		"progress"
+	],
+	"author": "Mauricio Giordano <mauricio.c.giordano@gmail.com> (http://mauriciogiordano.com/)",
+	"licenses": [
+		{
+			"url": "https://github.com/mauriciogior/node-progress/blob/master/LICENSE",
+			"type": "GPL v2"
+		}
+	],
+	"dependencies": {
+	},
+	"bugs": {
+		"url": "https://github.com/mauriciogior/node-progress/issues"
+	},
+	"homepage": "https://github.com/mauriciogior/node-progress"
+}
